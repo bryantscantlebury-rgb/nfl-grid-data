@@ -257,6 +257,49 @@
           "sub": "any season"
         }
       ]
+    },
+    {
+      "id": 1777478054240,
+      "cols": [
+        {
+          "type": "college",
+          "value": "Ohio",
+          "label": "Ohio",
+          "sub": "college attended"
+        },
+        {
+          "type": "draft_round",
+          "value": 2,
+          "label": "Round 2 pick",
+          "sub": "NFL draft"
+        },
+        {
+          "type": "rec_yds_peak",
+          "value": 500,
+          "label": "500+ rec yds/season",
+          "sub": "single season"
+        }
+      ],
+      "rows": [
+        {
+          "type": "team",
+          "value": "BUF",
+          "label": "Buffalo Bills",
+          "sub": "any season"
+        },
+        {
+          "type": "team",
+          "value": "BUF",
+          "label": "Buffalo Bills",
+          "sub": "any season"
+        },
+        {
+          "type": "team",
+          "value": "DAL",
+          "label": "Dallas Cowboys",
+          "sub": "any season"
+        }
+      ]
     }
   ]
 }
