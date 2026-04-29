@@ -1,0 +1,47 @@
+{
+  "puzzles": [
+    {
+      "id": 1777477381257,
+      "cols": [
+        {
+          "type": "team",
+          "value": "ARI",
+          "label": "Arizona Cardinals",
+          "sub": "any season"
+        },
+        {
+          "type": "team",
+          "value": "BAL",
+          "label": "Baltimore Ravens",
+          "sub": "any season"
+        },
+        {
+          "type": "team",
+          "value": "ATL",
+          "label": "Atlanta Falcons",
+          "sub": "any season"
+        }
+      ],
+      "rows": [
+        {
+          "type": "team",
+          "value": "CLE",
+          "label": "Cleveland Browns",
+          "sub": "any season"
+        },
+        {
+          "type": "team",
+          "value": "GB",
+          "label": "Green Bay Packers",
+          "sub": "any season"
+        },
+        {
+          "type": "team",
+          "value": "LV",
+          "label": "Las Vegas Raiders",
+          "sub": "any season"
+        }
+      ]
+    }
+  ]
+}
