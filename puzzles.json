@@ -386,6 +386,49 @@
           "sub": "any season"
         }
       ]
+    },
+    {
+      "id": 1777927426661,
+      "cols": [
+        {
+          "type": "team",
+          "value": "CAR",
+          "label": "Carolina Panthers",
+          "sub": "any season"
+        },
+        {
+          "type": "college",
+          "value": "Ohio",
+          "label": "Ohio",
+          "sub": "college attended"
+        },
+        {
+          "type": "college",
+          "value": "Miami",
+          "label": "Miami",
+          "sub": "college attended"
+        }
+      ],
+      "rows": [
+        {
+          "type": "team",
+          "value": "IND",
+          "label": "Indianapolis Colts",
+          "sub": "any season"
+        },
+        {
+          "type": "team",
+          "value": "KC",
+          "label": "Kansas City Chiefs",
+          "sub": "any season"
+        },
+        {
+          "type": "team",
+          "value": "JAX",
+          "label": "Jacksonville Jaguars",
+          "sub": "any season"
+        }
+      ]
     }
   ]
 }
